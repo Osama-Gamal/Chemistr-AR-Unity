@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 23e8c13bceb71df44b0f34ce432f5ff0
+timeCreated: 1538385061
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Support_LOD0
+    100004: Support_LOD004
+    100006: Support_LOD005
+    100008: Support_LOD3
+    100010: SupportTubeGrabber_LOD0
+    100012: SupportTubeGrabber_LOD1
+    100014: SupportTubeGrabber_LOD2
+    100016: SupportTubeGrabber_LOD3
+    100018: Support_LOD1
+    100020: Support_LOD2
+    400000: //RootNode
+    400002: Support_LOD0
+    400004: Support_LOD004
+    400006: Support_LOD005
+    400008: Support_LOD3
+    400010: SupportTubeGrabber_LOD0
+    400012: SupportTubeGrabber_LOD1
+    400014: SupportTubeGrabber_LOD2
+    400016: SupportTubeGrabber_LOD3
+    400018: Support_LOD1
+    400020: Support_LOD2
+    2300000: Support_LOD0
+    2300002: Support_LOD004
+    2300004: Support_LOD005
+    2300006: Support_LOD3
+    2300008: SupportTubeGrabber_LOD0
+    2300010: SupportTubeGrabber_LOD1
+    2300012: SupportTubeGrabber_LOD2
+    2300014: SupportTubeGrabber_LOD3
+    2300016: Support_LOD1
+    2300018: Support_LOD2
+    3300000: Support_LOD0
+    3300002: Support_LOD004
+    3300004: Support_LOD005
+    3300006: Support_LOD3
+    3300008: SupportTubeGrabber_LOD0
+    3300010: SupportTubeGrabber_LOD1
+    3300012: SupportTubeGrabber_LOD2
+    3300014: SupportTubeGrabber_LOD3
+    3300016: Support_LOD1
+    3300018: Support_LOD2
+    4300000: Support_LOD0
+    4300002: Support_LOD004
+    4300004: Support_LOD005
+    4300006: Support_LOD3
+    4300008: SupportTubeGrabber_LOD0
+    4300010: SupportTubeGrabber_LOD1
+    4300012: SupportTubeGrabber_LOD2
+    4300014: SupportTubeGrabber_LOD3
+    4300016: Support_LOD1
+    4300018: Support_LOD2
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .0625
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

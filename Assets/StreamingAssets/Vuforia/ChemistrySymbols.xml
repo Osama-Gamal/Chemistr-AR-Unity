@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="h2" size="1.000000 1.054688" />
+    <ImageTarget name="au" size="1.000000 1.043478" />
+    <ImageTarget name="h1" size="1.000000 1.046512" />
+    <ImageTarget name="cl" size="1.000000 1.049563" />
+    <ImageTarget name="na" size="1.000000 1.049563" />
+    <ImageTarget name="fe" size="1.000000 1.044487" />
+    <ImageTarget name="s" size="1.000000 1.042471" />
+    <ImageTarget name="H2SO3" size="1.000000 1.036468" />
+    <ImageTarget name="O3" size="1.000000 1.046512" />
+    <ImageTarget name="C3H6O3" size="100.000000 103.875969" />
+    <ImageTarget name="O2" size="100.000000 104.448746" />
+    <ImageTarget name="C6H6" size="1.000000 1.044487" />
+    <ImageTarget name="FlameTest" size="1.000000 1.039575" />
+    <ImageTarget name="CH4" size="200.000000 209.302322" />
+    <ImageTarget name="oxigenSym" size="1.000000 1.033113" />
+    <ImageTarget name="hydriSym2" size="1.000000 1.460218" />
+    <ImageTarget name="hydriSym1" size="1.000000 1.573109" />
+    <ImageTarget name="NaSym" size="1.000000 0.929494" />
+    <ImageTarget name="ClSym" size="1.000000 0.825397" />
+    <ImageTarget name="hydrogen-symbol" size="5.000000 5.317797" />
+  </Tracking>
+</QCARConfig>

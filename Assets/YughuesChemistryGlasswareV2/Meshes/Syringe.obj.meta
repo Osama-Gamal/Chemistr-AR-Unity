@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: d8870a54d8a715a4d8d635402d6928d2
+timeCreated: 1538385070
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Syringe_LOD0
+    100004: Syringe_LOD001
+    100006: Syringe_LOD002
+    100008: Syringe_LOD003
+    100010: SyringePiston_LOD00
+    100012: SyringePiston_LOD001
+    100014: SyringePiston_LOD002
+    100016: SyringePiston_LOD003
+    100018: Syringe_LOD1
+    100020: Syringe_LOD2
+    100022: Syringe_LOD3
+    100024: SyringePiston_LOD0
+    100026: SyringePiston_LOD1
+    100028: SyringePiston_LOD2
+    100030: SyringePiston_LOD3
+    400000: //RootNode
+    400002: Syringe_LOD0
+    400004: Syringe_LOD001
+    400006: Syringe_LOD002
+    400008: Syringe_LOD003
+    400010: SyringePiston_LOD00
+    400012: SyringePiston_LOD001
+    400014: SyringePiston_LOD002
+    400016: SyringePiston_LOD003
+    400018: Syringe_LOD1
+    400020: Syringe_LOD2
+    400022: Syringe_LOD3
+    400024: SyringePiston_LOD0
+    400026: SyringePiston_LOD1
+    400028: SyringePiston_LOD2
+    400030: SyringePiston_LOD3
+    2300000: Syringe_LOD0
+    2300002: Syringe_LOD001
+    2300004: Syringe_LOD002
+    2300006: Syringe_LOD003
+    2300008: SyringePiston_LOD00
+    2300010: SyringePiston_LOD001
+    2300012: SyringePiston_LOD002
+    2300014: SyringePiston_LOD003
+    2300016: Syringe_LOD1
+    2300018: Syringe_LOD2
+    2300020: Syringe_LOD3
+    2300022: SyringePiston_LOD0
+    2300024: SyringePiston_LOD1
+    2300026: SyringePiston_LOD2
+    2300028: SyringePiston_LOD3
+    3300000: Syringe_LOD0
+    3300002: Syringe_LOD001
+    3300004: Syringe_LOD002
+    3300006: Syringe_LOD003
+    3300008: SyringePiston_LOD00
+    3300010: SyringePiston_LOD001
+    3300012: SyringePiston_LOD002
+    3300014: SyringePiston_LOD003
+    3300016: Syringe_LOD1
+    3300018: Syringe_LOD2
+    3300020: Syringe_LOD3
+    3300022: SyringePiston_LOD0
+    3300024: SyringePiston_LOD1
+    3300026: SyringePiston_LOD2
+    3300028: SyringePiston_LOD3
+    4300000: Syringe_LOD0
+    4300002: Syringe_LOD001
+    4300004: Syringe_LOD002
+    4300006: Syringe_LOD003
+    4300008: SyringePiston_LOD00
+    4300010: SyringePiston_LOD001
+    4300012: SyringePiston_LOD002
+    4300014: SyringePiston_LOD003
+    4300016: Syringe_LOD1
+    4300018: Syringe_LOD2
+    4300020: Syringe_LOD3
+    4300022: SyringePiston_LOD0
+    4300024: SyringePiston_LOD1
+    4300026: SyringePiston_LOD2
+    4300028: SyringePiston_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .0625
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

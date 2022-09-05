@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 434814263b8a43d4fad48856cf4f6ddb
+timeCreated: 1538385063
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SyringeTiny_LOD0
+    100004: SyringeTiny_LOD001
+    100006: SyringeTiny_LOD002
+    100008: SyringeTiny_LOD003
+    100010: SyringeTinyPiston_LOD0
+    100012: SyringeTinyPiston_LOD001
+    100014: SyringeTinyPiston_LOD002
+    100016: SyringeTinyPiston_LOD003
+    100018: SyringeTiny_LOD1
+    100020: SyringeTiny_LOD2
+    100022: SyringeTiny_LOD3
+    100024: SyringeTinyPiston_LOD1
+    100026: SyringeTinyPiston_LOD2
+    100028: SyringeTinyPiston_LOD3
+    400000: //RootNode
+    400002: SyringeTiny_LOD0
+    400004: SyringeTiny_LOD001
+    400006: SyringeTiny_LOD002
+    400008: SyringeTiny_LOD003
+    400010: SyringeTinyPiston_LOD0
+    400012: SyringeTinyPiston_LOD001
+    400014: SyringeTinyPiston_LOD002
+    400016: SyringeTinyPiston_LOD003
+    400018: SyringeTiny_LOD1
+    400020: SyringeTiny_LOD2
+    400022: SyringeTiny_LOD3
+    400024: SyringeTinyPiston_LOD1
+    400026: SyringeTinyPiston_LOD2
+    400028: SyringeTinyPiston_LOD3
+    2300000: SyringeTiny_LOD0
+    2300002: SyringeTiny_LOD001
+    2300004: SyringeTiny_LOD002
+    2300006: SyringeTiny_LOD003
+    2300008: SyringeTinyPiston_LOD0
+    2300010: SyringeTinyPiston_LOD001
+    2300012: SyringeTinyPiston_LOD002
+    2300014: SyringeTinyPiston_LOD003
+    2300016: SyringeTiny_LOD1
+    2300018: SyringeTiny_LOD2
+    2300020: SyringeTiny_LOD3
+    2300022: SyringeTinyPiston_LOD1
+    2300024: SyringeTinyPiston_LOD2
+    2300026: SyringeTinyPiston_LOD3
+    3300000: SyringeTiny_LOD0
+    3300002: SyringeTiny_LOD001
+    3300004: SyringeTiny_LOD002
+    3300006: SyringeTiny_LOD003
+    3300008: SyringeTinyPiston_LOD0
+    3300010: SyringeTinyPiston_LOD001
+    3300012: SyringeTinyPiston_LOD002
+    3300014: SyringeTinyPiston_LOD003
+    3300016: SyringeTiny_LOD1
+    3300018: SyringeTiny_LOD2
+    3300020: SyringeTiny_LOD3
+    3300022: SyringeTinyPiston_LOD1
+    3300024: SyringeTinyPiston_LOD2
+    3300026: SyringeTinyPiston_LOD3
+    4300000: SyringeTiny_LOD0
+    4300002: SyringeTiny_LOD001
+    4300004: SyringeTiny_LOD002
+    4300006: SyringeTiny_LOD003
+    4300008: SyringeTinyPiston_LOD0
+    4300010: SyringeTinyPiston_LOD001
+    4300012: SyringeTinyPiston_LOD002
+    4300014: SyringeTinyPiston_LOD003
+    4300016: SyringeTiny_LOD1
+    4300018: SyringeTiny_LOD2
+    4300020: SyringeTiny_LOD3
+    4300022: SyringeTinyPiston_LOD1
+    4300024: SyringeTinyPiston_LOD2
+    4300026: SyringeTinyPiston_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .0625
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
